@@ -1,5 +1,8 @@
 {
   "name": "Ionic3_2ndTutorial",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "dec5230f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
